@@ -2,7 +2,7 @@
   "name": "kenzie-portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://giancarlopessatti.github.io/Giancarlo",
+  "homepage": "https://giancarlopessatti.github.io/Giancarlo-Portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
